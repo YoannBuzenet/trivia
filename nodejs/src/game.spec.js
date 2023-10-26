@@ -1,6 +1,8 @@
 const Should = require('should');
 const Game = require('./game.js');
 
+// test git
+
 describe("The test environment", function () {
   it("should pass", function () {
     (true).should.equal(true);
